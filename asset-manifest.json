@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "https://ilham-r.github.io/csb-l4cloj/static/css/main.1c73ceea.chunk.css",
+    "main.js": "https://ilham-r.github.io/csb-l4cloj/static/js/main.ed54cf4f.chunk.js",
+    "main.js.map": "https://ilham-r.github.io/csb-l4cloj/static/js/main.ed54cf4f.chunk.js.map",
+    "runtime-main.js": "https://ilham-r.github.io/csb-l4cloj/static/js/runtime-main.91b66fff.js",
+    "runtime-main.js.map": "https://ilham-r.github.io/csb-l4cloj/static/js/runtime-main.91b66fff.js.map",
+    "static/js/2.817f9576.chunk.js": "https://ilham-r.github.io/csb-l4cloj/static/js/2.817f9576.chunk.js",
+    "static/js/2.817f9576.chunk.js.map": "https://ilham-r.github.io/csb-l4cloj/static/js/2.817f9576.chunk.js.map",
+    "index.html": "https://ilham-r.github.io/csb-l4cloj/index.html",
+    "static/css/main.1c73ceea.chunk.css.map": "https://ilham-r.github.io/csb-l4cloj/static/css/main.1c73ceea.chunk.css.map",
+    "static/js/2.817f9576.chunk.js.LICENSE.txt": "https://ilham-r.github.io/csb-l4cloj/static/js/2.817f9576.chunk.js.LICENSE.txt",
+    "static/media/desktop-image-hero-1.91901d0d.jpg": "https://ilham-r.github.io/csb-l4cloj/static/media/desktop-image-hero-1.91901d0d.jpg",
+    "static/media/desktop-image-hero-2.9d354056.jpg": "https://ilham-r.github.io/csb-l4cloj/static/media/desktop-image-hero-2.9d354056.jpg",
+    "static/media/desktop-image-hero-3.05fd679a.jpg": "https://ilham-r.github.io/csb-l4cloj/static/media/desktop-image-hero-3.05fd679a.jpg",
+    "static/media/icon-angle-left.d53877df.svg": "https://ilham-r.github.io/csb-l4cloj/static/media/icon-angle-left.d53877df.svg",
+    "static/media/icon-angle-right.0ed3f81f.svg": "https://ilham-r.github.io/csb-l4cloj/static/media/icon-angle-right.0ed3f81f.svg",
+    "static/media/icon-arrow.84087786.svg": "https://ilham-r.github.io/csb-l4cloj/static/media/icon-arrow.84087786.svg",
+    "static/media/icon-close.3e88bd6e.svg": "https://ilham-r.github.io/csb-l4cloj/static/media/icon-close.3e88bd6e.svg",
+    "static/media/icon-hamburger.dc022bac.svg": "https://ilham-r.github.io/csb-l4cloj/static/media/icon-hamburger.dc022bac.svg",
+    "static/media/image-about-dark.329bbc44.jpg": "https://ilham-r.github.io/csb-l4cloj/static/media/image-about-dark.329bbc44.jpg",
+    "static/media/logo.8fad0542.svg": "https://ilham-r.github.io/csb-l4cloj/static/media/logo.8fad0542.svg",
+    "static/media/mobile-image-hero-1.5de3d147.jpg": "https://ilham-r.github.io/csb-l4cloj/static/media/mobile-image-hero-1.5de3d147.jpg",
+    "static/media/mobile-image-hero-2.51db290a.jpg": "https://ilham-r.github.io/csb-l4cloj/static/media/mobile-image-hero-2.51db290a.jpg",
+    "static/media/mobile-image-hero-3.601d0f37.jpg": "https://ilham-r.github.io/csb-l4cloj/static/media/mobile-image-hero-3.601d0f37.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91b66fff.js",
+    "static/js/2.817f9576.chunk.js",
+    "static/css/main.1c73ceea.chunk.css",
+    "static/js/main.ed54cf4f.chunk.js"
+  ]
+}
